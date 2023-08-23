@@ -179,9 +179,13 @@ img {
   border-radius: 1px solid #000;
 }
 
-.main .crazy h2 {
+.main .crazy h1 {
   background-color: red;
   font-family: "Aeonik";
+}
+
+#main h1:nth-child(4) {
+  color: yellowgreen;
 }
 
 /* LOOP */
