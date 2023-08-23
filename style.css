@@ -106,6 +106,12 @@ textarea {
   padding: 0 var(--container-padding);
 }
 
+#main {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
 /* nav */
 
 #nav {
