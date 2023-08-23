@@ -112,8 +112,8 @@ textarea {
 
 #nav-part3 {
   display: flex;
-  gap: 55px;
-  align-items: center;
+  gap: 15px;
+  /* align-items: center; */
 }
 
 img {
