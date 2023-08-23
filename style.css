@@ -179,7 +179,7 @@ img {
   border-radius: 1px solid #000;
 }
 
-.main .crazy h1 {
+.main .crazy {
   background-color: red;
   font-family: "Aeonik";
 }
@@ -188,6 +188,12 @@ img {
   color: orange;
   font-family: "Aeonik";
   margin-left: -20%;
+}
+
+#main h1:nth-child(6) {
+  color: red;
+  /* font-family: "Aeonik"; */
+  /* margin-left: -20%; */
 }
 
 /* LOOP */
