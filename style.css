@@ -86,7 +86,8 @@ textarea {
 } */
 /* !REUSABLE CLASSES */
 .container {
-  max-width: var(--container-width);
+  width: 100vw;
+  /* max-width: var(--container-width); */
   margin: 0 auto;
   padding: 0 var(--container-padding);
 }
