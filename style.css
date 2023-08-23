@@ -195,7 +195,7 @@ img {
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
   text-transform: uppercase;
-  font-size: 70px;
+  font-size: 100px;
   height: 10vh;
   width: 40%;
   color: #fff;
@@ -209,27 +209,6 @@ img {
   /* border-radius: 10px; */
   margin-left: 27%;
   transform: rotate(7deg);
-}
-
-.main-title h2 {
-  text-transform: uppercase;
-  font-size: 70px;
-  /* background-color: #9b51e0; */
-  background-color: ;
-  height: 10vh;
-  width: 40%;
-  color: #fff;
-  font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 1px;
-  /* opacity: 1; */
-  background-size: 30%;
-  /* padding: 0 5vw; */
-  /* border-radius: 10px; */
-  margin-left: 30%;
-  transform: rotate(11deg); /* Tilt the text by 45 degrees */
 }
 
 /* LOOP */
