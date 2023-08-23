@@ -282,6 +282,5 @@ img {
   background-size: 30%;
   /* padding: 0 5vw; */
   margin-left: 30%;
-  transform: rotate(11deg); Tilt the text by 11 degrees
+  transform: rotate(11deg);
 }
-
