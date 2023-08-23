@@ -145,6 +145,10 @@ img {
   color: yellowgreen;
 } */
 
+#main .love h1 {
+  color: var(--dark-orange);
+}
+
 /* LOOP */
 #page {
   position: relative;
