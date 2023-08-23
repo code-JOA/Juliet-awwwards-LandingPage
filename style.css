@@ -118,6 +118,20 @@ img {
   border-radius: 50px;
 }
 
+.inline-image {
+  width: 6rem;
+  height: 6rem;
+  background: url("rose.png") top center no-repeat;
+  /* background: url("../images/rose.png") top center no-repeat; */
+
+  background-size: cover;
+  border-radius: 50%;
+  /* border-bottom-right-radius: 0; */
+  /* comment on the below to keep image as rounded */
+  border-bottom-left-radius: 0;
+  margin: 0 1.5rem;
+}
+
 /* this changes the color for only the word Everything */
 /* #main h1:nth-child(2) {
   color: red;
