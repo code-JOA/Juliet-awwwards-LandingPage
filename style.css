@@ -280,6 +280,11 @@ img {
   transform: rotate(11deg); /* Tilt the text by 11 degrees */
 }
 
+.section {
+  padding-block: var(--section-vertical-spacing);
+  position: relative;
+}
+
 .selected {
   min-height: 80vh;
   width: 100%;
