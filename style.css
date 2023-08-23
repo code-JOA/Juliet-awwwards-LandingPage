@@ -108,7 +108,7 @@ img {
   /* line-height: 170px; */
 }
 
-#main h1 span {
+/* #main h1 span {
   background-color: brown;
   /* color: #000; */
   font-size: 25px;
@@ -116,7 +116,7 @@ img {
   margin: 0 30px;
   /* height: 60px; */
   border-radius: 50px;
-}
+} */
 
 .inline-image {
   width: 6rem;
@@ -151,7 +151,7 @@ img {
   margin-left: -20%;
 }
 
-#main .your span {
+#main .your {
   color: grey;
 }
 
