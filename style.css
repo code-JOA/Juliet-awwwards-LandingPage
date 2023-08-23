@@ -280,8 +280,11 @@ img {
   transform: rotate(11deg); /* Tilt the text by 11 degrees */
 }
 
-.selected {
-  width: 100vw;
-  height: 100%;
-  background-color: yellow;
+.page2 {
+  min-height: 80vh;
+  width: 100%;
+  padding: 100px 5vw;
+  position: relative;
+  z-index: 9;
+  border-bottom: 2px solid #6c6c6c;
 }
