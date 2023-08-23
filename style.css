@@ -285,7 +285,7 @@ img {
   transform: rotate(11deg); /* Tilt the text by 11 degrees */
 }
 
-/* .about-me-section {
+.about-me-section {
   min-height: 80vh;
   width: 100%;
   padding: 100px 5vw;
@@ -294,7 +294,7 @@ img {
   border-bottom: 2px solid #6c6c6c;
 }
 
-.container {
+/* .container {
   max-width: var(--container-width);
   margin: 0 auto;
   padding: 0 var(--container-padding);
