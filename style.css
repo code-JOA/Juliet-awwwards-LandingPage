@@ -169,8 +169,9 @@ img {
   /* background-color: brown; */
   color: #000;
   font-size: 25px;
-  padding: 20px 40px;
+  padding: 10px 20px;
   margin: 0 10px;
+  margin-left: 10%;
   /* height: 60px; */
   border-radius: 50px;
   transition: transparent;
