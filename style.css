@@ -74,7 +74,7 @@ span {
 i {
   font-size: 2.4rem;
 }
-
+/* 
 input,
 button,
 textarea {
@@ -83,7 +83,7 @@ textarea {
   background-color: transparent;
   border: none;
   outline: none;
-}
+} */
 /* !REUSABLE CLASSES */
 .container {
   max-width: var(--container-width);
