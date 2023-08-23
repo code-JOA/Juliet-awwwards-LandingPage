@@ -165,7 +165,7 @@ textarea {
   white-space: nowrap;
   /* animation: animate 6s linear infinite; */
   animation-name: animate;
-  animation-duration: 15s;
+  animation-duration: 6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 
