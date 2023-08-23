@@ -192,6 +192,8 @@ img {
 
 #main h1:nth-child(6) {
   color: red;
+
+  /* top: 1px; */
   /* font-family: "Aeonik"; */
   /* margin-left: -20%; */
 }
