@@ -126,8 +126,8 @@ textarea {
   gap: 55px;
   font-size: 26px;
   font-weight: 400;
-  font-family: "Aeonik2";
-  text-transform: uppercase;
+  font-family: "roslindale";
+  /* text-transform: uppercase; */
 }
 
 #nav-part3 {
