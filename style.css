@@ -145,13 +145,14 @@ img {
   color: yellowgreen;
 } */
 
-#main .love h2 {
+#main .love {
   color: orange;
   font-family: "Aeonik";
   margin-left: -20%;
 }
 
-#main h1 span {
+#main .your span {
+  color: grey;
 }
 
 /* LOOP */
