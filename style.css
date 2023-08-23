@@ -194,7 +194,21 @@ img {
   color: red;
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
-  /* margin-left: -20%; */
+  text-transform: uppercase;
+  font-size: 70px;
+  height: 10vh;
+  width: 40%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1px;
+  /* opacity: 1; */
+  background-size: 30%;
+  /* padding: 0 5vw; */
+  /* border-radius: 10px; */
+  margin-left: 30%;
+  transform: rotate(14deg);
 }
 
 .main-title h2 {
