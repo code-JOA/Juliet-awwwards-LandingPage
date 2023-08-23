@@ -109,13 +109,14 @@ img {
 }
 
 #main h1 span {
-  background-color: brown;
-  /* color: #000; */
+  /* background-color: brown; */
+  color: #000;
   font-size: 25px;
   padding: 20px 40px;
   margin: 0 30px;
   /* height: 60px; */
   border-radius: 50px;
+  transition: ;
 }
 
 .inline-image {
