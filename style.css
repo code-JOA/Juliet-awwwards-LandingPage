@@ -116,7 +116,8 @@ img {
   margin: 0 30px;
   /* height: 60px; */
   border-radius: 50px;
-  transition: ;
+  transition: transparent;
+  border-radius: 1px solid #000;
 }
 
 .inline-image {
