@@ -190,11 +190,11 @@ img {
   margin-left: -20%;
 }
 
-#main h1:nth-child(6) {
+#main h1:nth-child(8) {
   color: red;
 
   /* top: 1px; */
-  /* font-family: "Aeonik"; */
+  font-family: "Aeonik";
   /* margin-left: -20%; */
 }
 
