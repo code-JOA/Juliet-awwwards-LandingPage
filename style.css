@@ -6,6 +6,11 @@
   src: url("./fonts/RoslindaleVariable-VF[Display]-Testing.ttf");
 }
 
+@font-face {
+  font-family: "Aeonic";
+  src: url("./fonts/RoslindaleVariable-VF[Display]-Testing.ttf");
+}
+
 /* !BASE STYLES/RESET */
 *::before,
 *::after {
@@ -15,8 +20,13 @@
 }
 
 :root {
+  --black: #000;
+  --white: #fff;
   --light-color: #f3f3fe;
   --dark-color: #363636;
+  --purple: rgba(133, 102, 246);
+  --orange: orange;
+  --dark-orange: darkorange;
   --border-top-color: rgba(0, 0, 0, 0.1);
   --link-hover-color: rgba(255, 255, 255, 0.2);
   --title-font-family: "Playfair Display", "serif";
@@ -119,7 +129,7 @@ textarea {
 .text-bold {
   text-transform: uppercase;
   font-size: 70px;
-  color: orange;
+  color: var(--dark-orange);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -136,7 +146,7 @@ textarea {
 .main-title .show-reel {
   /* background-color: #fff; */
   /* background-color: brown; */
-  color: #000;
+  color: var(--black);
   padding: 20px 40px;
   border-radius: 50px;
   border: 1px solid #000;
@@ -150,7 +160,7 @@ textarea {
 .main-title .show-reel h1 {
   font-size: 15px;
   font-weight: 100;
-  color: #000;
+  color: var(--black);
   letter-spacing: 1px;
   white-space: nowrap;
   /* animation: animate 6s linear infinite; */
@@ -180,11 +190,10 @@ textarea {
 .main-title h2 {
   text-transform: uppercase;
   font-size: 70px;
-  /* background-color: #9b51e0; */
-  background-color: rgba(133, 102, 246);
+  background-color: var(--purple);
   height: 10vh;
   width: 40%;
-  color: #fff;
+  color: var(--white);
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: center;
@@ -193,8 +202,6 @@ textarea {
   /* opacity: 1; */
   background-size: 30%;
   /* padding: 0 5vw; */
-  /* border-radius: 10px; */
   margin-left: 30%;
-  text-transform: transparent;
   transform: rotate(11deg); /* Tilt the text by 11 degrees */
 }
