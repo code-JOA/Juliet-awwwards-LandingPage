@@ -58,19 +58,19 @@ body {
   text-transform: uppercase;
 }
 
-#nav-part2 {
+/* #nav-part2 {
   display: flex;
   gap: 55px;
   /* color: black; */
   font-family: "roslindale";
   /* text-transform: uppercase; */
-}
+} */
 
 #nav-part2 h1 {
   display: flex;
   gap: 55px;
   color: black;
-  font-size: 3px;
+  font-size: 1px;
   font-weight: 100;
   font-family: "roslindale";
 }
