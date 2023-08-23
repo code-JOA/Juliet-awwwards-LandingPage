@@ -13,9 +13,13 @@
 
 @font-face {
   font-family: "Aeonik2";
-  src: url("./fonts//aeonik-regular.woff2");
+  src: url("./fonts/aeonik-regular.woff2");
 }
 
+@font-face {
+  font-family: "rogsant";
+  src: url("./fonts/rogsantregular.otf");
+}
 
 /* !BASE STYLES/RESET */
 *::before,
@@ -120,6 +124,7 @@ textarea {
 #nav-part2 {
   display: flex;
   gap: 55px;
+  font-size: 40px;
   font-weight: 400;
   font-family: "Aeonik2"
   text-transform: uppercase;
