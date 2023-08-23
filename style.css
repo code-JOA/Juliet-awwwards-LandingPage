@@ -62,7 +62,7 @@ body {
 #nav-part2 {
   display: flex;
   gap: 55px;
-  color: black;
+  /* color: black; */
   font-family: "roslindale";
   /* text-transform: uppercase; */
 }
