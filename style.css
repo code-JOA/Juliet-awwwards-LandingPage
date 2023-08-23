@@ -147,9 +147,9 @@ img {
   margin-left: -40%;
 } */
 
-#main .audience {
+#main .audience h1 {
   color: grey;
-  margin-right: 50%;
+  margin-right: 80%;
   line-height: 100px;
 }
 
@@ -170,7 +170,7 @@ img {
   color: #000;
   font-size: 25px;
   padding: 20px 40px;
-  margin: 0 30px;
+  /* margin: 0 30px; */
   /* height: 60px; */
   border-radius: 50px;
   transition: transparent;
