@@ -181,7 +181,7 @@ img {
   /* font-size: clamp(5rem, 10vw, 10rem); */
   font-size: 70px;
   text-align: center;
-  margin-top: 90px;
+  /* margin-top: 90px; */
 }
 
 .inline-image {
