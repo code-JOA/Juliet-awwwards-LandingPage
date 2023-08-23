@@ -123,36 +123,6 @@ img {
   margin: 0 1.5rem;
 }
 
-/* this changes the color for only the word Everything */
-/* #main h1:nth-child(2) {
-  color: red;
-  margin-top: 60px;
-}
-#main h1:nth-child(3) {
-  color: blue;
-}
-
-#main h1:nth-child(4) {
-  color: yellowgreen;
-} */
-
-/* #main .love {
-  color: orange;
-  font-family: "Aeonik";
-  margin-left: -20%;
-} */
-
-/* #main .your {
-  color: grey;
-  margin-left: -40%;
-} */
-
-#main .audience h1 {
-  color: grey;
-  margin-right: 80%;
-  line-height: 100px;
-}
-
 #main h1 span {
   /* background-color: brown; */
   color: #000;
@@ -183,6 +153,8 @@ img {
   background-color: red;
   font-family: "Aeonik";
 }
+
+/* this changes the color for only the word BY LOVING */
 
 #main h1:nth-child(5) {
   color: orange;
