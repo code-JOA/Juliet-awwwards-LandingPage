@@ -43,7 +43,7 @@ body {
 #nav {
   height: 100px;
   width: 100vw;
-  background-color: red;
+  /* background-color: red; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -116,19 +116,17 @@ img {
 }
 
 /* this changes the color for only the word Everything */
-#main h1:nth-child(2) {
+/* #main h1:nth-child(2) {
   color: red;
   margin-top: 60px;
 }
 #main h1:nth-child(3) {
   color: blue;
-  /* margin-top: 60px; */
 }
 
 #main h1:nth-child(4) {
   color: yellowgreen;
-  /* margin-top: 60px; */
-}
+} */
 
 /* LOOP */
 #page {
