@@ -43,7 +43,7 @@ body {
 #nav {
   height: 100px;
   width: 100vw;
-  /* background-color: red; */
+  background-color: red;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -51,20 +51,11 @@ body {
 }
 
 #nav h3 {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 100;
   color: black;
   font-family: "Aeonik";
   text-transform: uppercase;
-}
-
-#nav-part2 {
-  display: flex;
-  gap: 55px;
-  font-size: 5px;
-  /* color: black; */
-  font-family: "roslindale";
-  /* text-transform: uppercase; */
 }
 
 #nav-part2 h2 {
@@ -79,7 +70,7 @@ body {
 #nav-part3 {
   display: flex;
   gap: 15px;
-  font-size: 10px;
+  font-size: 20px;
   color: black;
   text-transform: uppercase;
   font-family: "Aeonik";
