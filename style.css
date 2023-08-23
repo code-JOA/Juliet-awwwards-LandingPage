@@ -150,6 +150,7 @@ img {
 #main .audience {
   color: grey;
   margin-right: 50%;
+  line-height: 100px;
 }
 
 #main h1 span {
