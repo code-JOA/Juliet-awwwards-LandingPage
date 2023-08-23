@@ -7,8 +7,8 @@
 }
 
 @font-face {
-  font-family: "Aeonic";
-  src: url("./fonts/RoslindaleVariable-VF[Display]-Testing.ttf");
+  font-family: "Aeonik";
+  src: url("./fonts/aeonik-regular.woff");
 }
 
 /* !BASE STYLES/RESET */
@@ -113,6 +113,7 @@ textarea {
 #nav-part3 {
   display: flex;
   gap: 15px;
+  font-family: "Aeonik";
   /* align-items: center; */
 }
 
