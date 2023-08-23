@@ -136,11 +136,11 @@ img {
   color: yellowgreen;
 } */
 
-#main .love {
+/* #main .love {
   color: orange;
   font-family: "Aeonik";
   margin-left: -20%;
-}
+} */
 
 /* #main .your {
   color: grey;
@@ -184,8 +184,8 @@ img {
   font-family: "Aeonik";
 }
 
-#main h1:nth-child(3) {
-  color: yellowgreen;
+#main h1:nth-child(5) {
+  color: orange;
 }
 
 /* LOOP */
