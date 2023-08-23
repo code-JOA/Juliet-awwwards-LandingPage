@@ -96,6 +96,7 @@ img {
 }
 
 #main h1 {
+  color: grey;
   font-size: 100px;
   text-align: center;
   text-transform: uppercase;
