@@ -105,8 +105,8 @@ textarea {
 }
 
 .inline-image {
-  width: 6rem;
-  height: 6rem;
+  width: 4rem;
+  height: 4rem;
   background: url("./images/rose.png") top center no-repeat;
   /* background: url("../images/rose.png") top center no-repeat; */
 
