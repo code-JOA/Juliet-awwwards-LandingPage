@@ -39,12 +39,6 @@ body {
   height: 100%;
 }
 
-#main {
-  height: 100%;
-  width: 100vw;
-  background-color: #000;
-}
-
 /* nav */
 
 #nav {
@@ -92,4 +86,45 @@ img {
 
 #nav h4 {
   text-transform: uppercase;
+}
+
+#main {
+  height: 100%;
+  width: 100vw;
+  background-color: #000;
+}
+
+#main h1 {
+  font-size: 140px;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* line-height: 170px; */
+}
+
+#main h1 span {
+  background-color: brown;
+  /* color: #000; */
+  font-size: 25px;
+  padding: 20px 40px;
+  margin: 0 30px;
+  /* height: 60px; */
+  border-radius: 50px;
+}
+
+/* this changes the color for only the word Everything */
+#main h1:nth-child(2) {
+  color: red;
+  margin-top: 60px;
+}
+#main h1:nth-child(3) {
+  color: blue;
+  /* margin-top: 60px; */
+}
+
+#main h1:nth-child(4) {
+  color: yellowgreen;
+  /* margin-top: 60px; */
 }
