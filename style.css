@@ -169,7 +169,7 @@ img {
   /* background-color: brown; */
   color: #000;
   font-size: 25px;
-  padding: 20px 40px;
+  /* padding: 20px 40px; */
   /* margin: 0 30px; */
   /* height: 60px; */
   border-radius: 50px;
@@ -177,7 +177,7 @@ img {
   border-radius: 1px solid #000;
 }
 
-.main .crazy h1 {
+.main .crazy {
   background-color: red;
   font-family: "Aeonik";
 }
