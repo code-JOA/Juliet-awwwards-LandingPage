@@ -11,6 +11,12 @@
   src: url("./fonts/aeonik-regular.woff");
 }
 
+@font-face {
+  font-family: "Aeonik2";
+  src: url("./fonts//aeonik-regular.woff2");
+}
+
+
 /* !BASE STYLES/RESET */
 *::before,
 *::after {
@@ -115,7 +121,7 @@ textarea {
   display: flex;
   gap: 55px;
   font-weight: 400;
-  /* font-family: "Roslindale" */
+  font-family: "Aeonik2"
   text-transform: uppercase;
 }
 
