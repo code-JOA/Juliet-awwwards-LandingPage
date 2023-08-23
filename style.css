@@ -280,7 +280,7 @@ img {
   transform: rotate(11deg); /* Tilt the text by 11 degrees */
 }
 
-.selected {
+.about-me-section {
   min-height: 80vh;
   width: 100%;
   padding: 100px 5vw;
