@@ -147,7 +147,7 @@ img {
   transition: transparent;
 }
 
-#main .move {
+#main .move h1 {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
