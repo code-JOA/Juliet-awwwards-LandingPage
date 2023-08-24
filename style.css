@@ -123,7 +123,7 @@ img {
   margin: 0 1.5rem;
 }
 
-#main h1 span {
+/* #main h1 span {
   /* background-color: brown; */
   color: #000;
   font-size: 25px;
@@ -133,7 +133,7 @@ img {
   border-radius: 50px;
   transition: transparent;
   border-radius: 1px solid #000;
-}
+} */
 
 #main h1 button {
   /* background-color: brown; */
@@ -147,7 +147,7 @@ img {
   transition: transparent;
 }
 
-#main .move button {
+#main .move {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
