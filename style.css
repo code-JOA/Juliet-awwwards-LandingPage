@@ -148,7 +148,7 @@ img {
   transition: transparent;
 }
 
-#main .move button {
+/* #main .move button {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
@@ -162,7 +162,7 @@ img {
   100% {
     transform: translateX(-100%);
   }
-}
+} */
 
 /* this changes the color for only the word BY LOVING */
 
