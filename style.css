@@ -123,7 +123,7 @@ img {
   margin: 0 1.5rem;
 }
 
-/* #main h1 span {
+#main h1 span {
   /* background-color: brown; */
   color: #000;
   /* font-size: 25px; */
@@ -134,9 +134,9 @@ img {
   transition: transparent;
   /* border-radius: 1px solid #000; */
   text-transform: uppercase;
-} */
+} 
 
-#main h1 span {
+/* #main h1 span {
   background-color: brown;
   /* color: #000; */
   font-size: 25px;
@@ -144,7 +144,7 @@ img {
   margin: 0 30px;
   /* height: 60px; */
   border-radius: 50px;
-}
+} */
 
 #main h1 button {
   background-color: brown;
@@ -156,6 +156,8 @@ img {
   height: 100px;
   border-radius: 50px;
   transition: transparent;
+    text-transform: uppercase;
+
 }
 
 /* #main .move button {
