@@ -154,6 +154,13 @@ img {
   animation: move-rtl 60s linear infinite;
 } */
 
+#main h1:nth-child(8) {
+  color: orange;
+  font-size: 110px;
+  font-family: "Aeonik";
+  margin-left: -20%;
+}
+
 .main h1:nth-child(8) {
   animation: move-rtl 60s linear infinite reverse-infinite;
   /* animation-delay: -30s; */
