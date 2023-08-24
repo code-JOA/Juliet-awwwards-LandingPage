@@ -137,7 +137,9 @@ img {
   background-color: brown;
   /* color: #000; */
   font-size: 25px;
+  margin: 0 10px;
   height: 60px;
+  width: 20px;
   border-radius: 50px;
 }
 
