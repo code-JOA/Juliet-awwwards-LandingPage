@@ -132,9 +132,8 @@ img {
   border-radius: 50px;
   border: 1px solid #000;
   transition: transparent;
-  text-transform: uppercase; 
-}  
-
+  text-transform: uppercase;
+}
 
 /* this changes the color for only the word BY LOVING */
 
@@ -153,7 +152,7 @@ img {
   right: 20%;
 }
 
-/* #main h1:nth-child(9) {
+#main h1:nth-child(8) {
   /* color: red; */
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
@@ -172,7 +171,7 @@ img {
   /* border-radius: 10px; */
   margin-left: 27%;
   transform: rotate(7deg);
-} */
+}
 
 /* LOOP */
 #page {
