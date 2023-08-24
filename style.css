@@ -134,10 +134,17 @@ img {
   transition: transparent;
   border-radius: 1px solid #000;
   text-transform: uppercase;
-  border-radius: 1px solid #000;
-  white-space: nowrap;
-  animation: move-rtl 60s linear infinite;
 }
+
+@keyframes move-rtl {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
 
 #main h1 button {
   /* background-color: brown; */
@@ -151,26 +158,18 @@ img {
   transition: transparent;
 }
 
-/* #main .move {
+#main .move {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
   animation: move-rtl 60s linear infinite;
-} */
+}
 
 /* .main h1:nth-child(8) {
   animation: move-rtl 60s linear infinite reverse-infinite;
   /* animation-delay: -30s; */
 } */
 
-@keyframes move-rtl {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
 
 .main .crazy {
   background-color: red;
