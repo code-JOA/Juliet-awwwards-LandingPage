@@ -132,12 +132,12 @@ img {
   /* height: 60px; */
   border-radius: 50px;
   transition: transparent;
-  border-radius: 1px solid #000;
+  /* border-radius: 1px solid #000; */
   text-transform: uppercase;
 }
 
 #main h1 button {
-  /* background-color: brown; */
+  background-color: brown;
   color: #000;
   font-size: 20px;
   /* padding: 10px 20px; */
