@@ -138,10 +138,11 @@ img {
   color: #000;
   font-size: 20px;
   /* padding: 10px 20px; */
-  margin: 0 10px;
+  /* margin: 0 10px; */
   height: 60px;
   margin-left: 1%;
-  height: 50px;
+  width: 20px;
+  height: 100px;
   border-radius: 50px;
   border: 1px solid #000;
   transition: transparent;
