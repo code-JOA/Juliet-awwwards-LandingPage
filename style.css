@@ -132,22 +132,14 @@ img {
   height: 60px;
   border-radius: 50px;
   transition: transparent;
-  /* border-radius: 1px solid #000; */
+  border-radius: 1px solid #000;
   text-transform: uppercase;
 } 
 
-#main h1 span {
-  background-color: brown;
-  /* color: #000; */
-  /* font-size: 25px;
-  padding: 20px 40px; */
-  margin: 0 1px;
-  height: 60px;
-  border-radius: 50px;
-} 
+
 
 #main h1 button {
-  background-color: brown;
+  /* background-color: brown; */
   color: #000;
   font-size: 20px;
   padding: 10px 20px; */
