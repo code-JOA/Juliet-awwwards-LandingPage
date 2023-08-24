@@ -123,10 +123,10 @@ img {
   margin: 0 1.5rem;
 }
 
-#main h1 span {
+#main span {
   /* background-color: brown; */
   color: #000;
-  font-size: 25px;
+  /* font-size: 25px; */
   padding: 20px 40px;
   margin: 0 30px;
   /* height: 60px; */
@@ -148,7 +148,7 @@ img {
   transition: transparent;
 }
 
-#main .move button {
+/* #main .move button {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
@@ -162,7 +162,7 @@ img {
   100% {
     transform: translateX(-100%);
   }
-}
+} */
 
 /* this changes the color for only the word BY LOVING */
 
