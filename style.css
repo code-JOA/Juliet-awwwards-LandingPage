@@ -166,8 +166,8 @@ img {
   color: blue;
   font-family: "Roslindale";
   position: absolute;
-  top: 14%;
-  /* bottom: 10%; */
+  /* top: 14%; */
+  bottom: 4%;
   right: 2%;
 }
 
