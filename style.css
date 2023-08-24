@@ -135,23 +135,6 @@ img {
 }  
 
 
-
-/* #main h1 button {
-  /* background-color: brown; */
-  color: #000;
-  font-size: 20px;
-  /* padding: 10px 20px; */
-  /* margin: 0 10px; */
-  height: 60px;
-  margin-left: 1%;
-  width: 20px;
-  height: 100px;
-  border-radius: 50px;
-  border: 1px solid #000;
-  transition: transparent;
-  text-transform: uppercase;
-} */
-
 /* this changes the color for only the word BY LOVING */
 
 #main h1:nth-child(5) {
