@@ -164,6 +164,7 @@ img {
 
 #main h1:nth-child(6) {
   color: blue;
+  font-size: 100px;
   font-family: "Roslindale";
   position: absolute;
   bottom: 40%;
