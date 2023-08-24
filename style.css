@@ -143,12 +143,12 @@ img {
   color: #000;
   font-size: 20px;
   padding: 10px 20px; */
-  /* margin: 0 10px;
-  margin-left: 1%;
-  /* height: 50px; */
+  /* margin: 0 10px;*/
+  margin-left: 1%; 
+  height: 50px;
   border-radius: 50px;
   transition: transparent;
-    text-transform: uppercase;
+  text-transform: uppercase;
 } 
 
 /* #main .move button {
