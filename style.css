@@ -144,8 +144,8 @@ img {
   /* margin: 0 10px;*/
   margin-left: 1%;
   height: 50px;
-  /* border-radius: 50px; */
-  border-radius: 50px solid #000;
+  border-radius: 50px;
+  border: 1px solid #000;
   transition: transparent;
   text-transform: uppercase;
 }
