@@ -147,11 +147,16 @@ img {
   transition: transparent;
 }
 
-#main .move h1 {
+/* #main .move h1 {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
   animation: move-rtl 60s linear infinite;
+} */
+
+.main h1:nth-child(8) {
+  animation: move-rtl 60s linear infinite reverse-infinite;
+  /* animation-delay: -30s; */
 }
 
 @keyframes move-rtl {
