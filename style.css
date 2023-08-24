@@ -135,7 +135,7 @@ img {
   border-radius: 1px solid #000;
 } */
 
-#main h1 button {
+#main .move {
   /* background-color: brown; */
   color: #000;
   font-size: 20px;
