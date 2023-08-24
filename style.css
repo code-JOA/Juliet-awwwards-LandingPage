@@ -155,6 +155,27 @@ img {
   right: 20%;
 }
 
+/* #main h1:nth-child(9) {
+  /* color: red; */
+  background-color: rgba(133, 102, 246);
+  font-family: "Aeonik";
+  text-transform: uppercase;
+  font-size: 100px;
+  height: 14vh;
+  width: 40%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1px;
+  /* opacity: 1; */
+  background-size: 30%;
+  /* padding: 0 5vw; */
+  /* border-radius: 10px; */
+  margin-left: 27%;
+  transform: rotate(7deg);
+} */
+
 /* LOOP */
 #page {
   position: relative;
