@@ -124,14 +124,14 @@ img {
 
 #main span {
   /* background-color: brown; */
-  /* color: #000; */
+  color: #000;
   font-size: 25px;
   padding: 1px 5px;
   margin: 0 20px;
   /* height: 60px; */
-  border-radius: 50px;
-  border-color: 1px solid #000;
-  transform: transparent;
+  /* border-radius: 50px; */
+  border-radius: 1px solid #000;
+  transition: transparent;
 }  
 
 
