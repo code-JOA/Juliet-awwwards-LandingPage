@@ -138,22 +138,6 @@ img {
   text-transform: uppercase;
 }
 
-/* #main .move button {
-  text-transform: uppercase;
-  border-radius: 1px solid #000;
-  white-space: nowrap;
-  animation: move-rtl 60s linear infinite;
-}
-
-@keyframes move-rtl {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-} */
-
 /* this changes the color for only the word BY LOVING */
 
 #main h1:nth-child(5) {
@@ -171,7 +155,7 @@ img {
   right: 20%;
 }
 
-#main h1:nth-child(8) {
+#main h1:nth-child(9) {
   color: red;
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
