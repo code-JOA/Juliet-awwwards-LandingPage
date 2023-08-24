@@ -161,14 +161,14 @@ img {
 }
 
 #main h1:nth-child(6) {
-  /* color: blue; */
+  color: blue;
   font-family: "Roslindale";
   position: absolute;
   bottom: 40%;
   right: 20%;
 }
 
-#main h1:nth-child(9) {
+#main h1:nth-child(8) {
   color: red;
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
