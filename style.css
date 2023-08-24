@@ -164,15 +164,14 @@ img {
 }
 
 #main h1:nth-child(6) {
-  color: blue;
-  /* font-size: 100px; */
+  /* color: blue; */
   font-family: "Roslindale";
   position: absolute;
   bottom: 40%;
   right: 20%;
 }
 
-/* #main h1:nth-child(8) {
+#main h1:nth-child(9) {
   color: red;
   background-color: rgba(133, 102, 246);
   font-family: "Aeonik";
@@ -191,9 +190,7 @@ img {
   /* border-radius: 10px; */
   margin-left: 27%;
   transform: rotate(7deg);
-} */
-
-
+}
 
 /* LOOP */
 #page {
