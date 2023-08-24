@@ -158,17 +158,18 @@ img {
 
 #main h1:nth-child(5) {
   color: orange;
+  font-size: 110px;
   font-family: "Aeonik";
   margin-left: -20%;
 }
 
 #main h1:nth-child(6) {
   color: blue;
-  font-size: 100px;
+  /* font-size: 100px; */
   font-family: "Roslindale";
   position: absolute;
   bottom: 40%;
-  right: 22%;
+  right: 20%;
 }
 
 /* #main h1:nth-child(8) {
