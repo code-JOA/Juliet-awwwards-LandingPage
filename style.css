@@ -123,7 +123,7 @@ img {
 }
 
 #main h1 span {
-  /* background-color: brown; */
+  background-color: #fff;
   color: #000;
   font-size: 25px;
   padding: 1px 5px;
@@ -132,6 +132,7 @@ img {
   border-radius: 50px;
   border: 1px solid #000;
   transition: transparent;
+  text-transform: uppercase; 
 }  
 
 
