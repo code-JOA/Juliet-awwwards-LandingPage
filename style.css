@@ -162,6 +162,12 @@ img {
   margin-left: -20%;
 }
 
+#main h1:nth-child(6) {
+  color: orange;
+  font-family: "Roslindale";
+  margin-left: -40%;
+}
+
 /* #main h1:nth-child(8) {
   color: red;
   background-color: rgba(133, 102, 246);
