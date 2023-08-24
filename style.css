@@ -129,11 +129,11 @@ img {
   font-size: 25px;
   padding: 20px 40px;
   margin: 0 30px;
-  /* height: 60px; */
+  height: 60px;
   border-radius: 50px;
 }
 
-#main h1 button {
+/* #main h1 button {
   /* background-color: brown; */
   color: #000;
   font-size: 20px;
@@ -147,7 +147,7 @@ img {
   border: 1px solid #000;
   transition: transparent;
   text-transform: uppercase;
-}
+} */
 
 /* this changes the color for only the word BY LOVING */
 
