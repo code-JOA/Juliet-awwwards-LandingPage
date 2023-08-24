@@ -147,19 +147,19 @@ img {
   transition: transparent;
 }
 
-/* #main .move h1 {
+/* #main .move button {
   text-transform: uppercase;
   border-radius: 1px solid #000;
   white-space: nowrap;
   animation: move-rtl 60s linear infinite;
 } */
 
-#main button:nth-child(8) {
+/* #main h1:nth-child(8) {
   color: orange;
   font-size: 110px;
   font-family: "Aeonik";
   margin-left: -20%;
-}
+} */
 
 .main h1:nth-child(8) {
   animation: move-rtl 60s linear infinite reverse-infinite;
