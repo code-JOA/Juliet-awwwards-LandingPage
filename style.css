@@ -163,9 +163,8 @@ img {
 }
 
 #main h1:nth-child(6) {
-  color: orange;
+  color: blue;
   font-family: "Roslindale";
-  margin-left: -40%;
 }
 
 /* #main h1:nth-child(8) {
