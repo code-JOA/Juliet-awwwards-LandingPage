@@ -137,9 +137,10 @@ img {
   background-color: brown;
   /* color: #000; */
   font-size: 25px;
+  padding: 10px 20px; 
   margin: 0 10px;
-  height: 60px;
-  width: 20px;
+  /* height: 60px; */
+  /* width: 20px; */
   border-radius: 50px;
 }
 
