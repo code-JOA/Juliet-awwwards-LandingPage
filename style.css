@@ -173,6 +173,23 @@ img {
   transform: rotate(7deg);
 }
 
+/* button */
+.btn {
+  display: flex;
+  gap: 2vw;
+}
+
+.btn button {
+  padding: 1.2vw 2vw;
+  border-radius: 10px;
+  border: none;
+  font-size: 1vw;
+}
+
+.btn button:nth-child(1) {
+  background-color: greenyellow;
+}
+
 /* LOOP */
 #page {
   position: relative;
