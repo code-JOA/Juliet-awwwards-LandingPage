@@ -177,8 +177,7 @@ img {
 .btn {
   display: flex;
   gap: 2vw;
-    top: 50%;
-
+  /* bottom: 50%; */
 }
 
 .btn button {
@@ -187,6 +186,7 @@ img {
   border: none;
   font-size: 1vw;
   margin-left: 65%;
+  margin-top: 50%;
 }
 
 .btn button:nth-child(1) {
