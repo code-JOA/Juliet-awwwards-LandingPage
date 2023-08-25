@@ -135,6 +135,11 @@ img {
   text-transform: uppercase;
 }
 
+button {
+  padding: 1.2vw 2vw;
+  border-radius: 1px solid #000;
+}
+
 /* this changes the color for only the word BY LOVING */
 
 #main h1:nth-child(5) {
@@ -174,9 +179,6 @@ img {
 }
 
 /* button */
-button {
-  padding: 1.2vw 2vw;
-}
 
 .btn {
   display: flex;
