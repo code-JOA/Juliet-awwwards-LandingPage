@@ -147,7 +147,7 @@ button {
 /* this changes the color for only the word BY LOVING */
 
 #main h1:nth-child(5) {
-  color: orange;
+  color: #ed7c50;
   font-size: 110px;
   font-family: "Aeonik";
   margin-left: -20%;
