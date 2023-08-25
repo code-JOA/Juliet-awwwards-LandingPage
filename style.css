@@ -177,6 +177,8 @@ img {
 .btn {
   display: flex;
   gap: 2vw;
+    top: 50%;
+
 }
 
 .btn button {
@@ -184,7 +186,6 @@ img {
   border-radius: 10px;
   border: none;
   font-size: 1vw;
-  top: 50%;
   margin-left: 65%;
 }
 
