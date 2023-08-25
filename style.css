@@ -122,7 +122,7 @@ img {
   margin: 0 1.5rem;
 }
 
-#main h1 span {
+/* #main h1 span {
   background-color: #fff;
   color: #000;
   font-size: 15px;
@@ -133,10 +133,10 @@ img {
   border: 1px solid #000;
   transition: transparent;
   text-transform: uppercase;
-}
+} */
 
 button {
-  padding: 1.2vw 2vw;
+  padding: 1.2vw 5vw;
   border-radius: 50px;
   border: 1px solid #000;
   color: #000;
