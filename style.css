@@ -142,6 +142,7 @@ button {
   color: #000;
   font-size: 15px;
   text-transform: uppercase;
+  left: -60%;
 }
 
 /* this changes the color for only the word BY LOVING */
