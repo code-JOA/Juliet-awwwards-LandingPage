@@ -185,8 +185,7 @@ img {
   border-radius: 10px;
   border: none;
   font-size: 1vw;
-  margin-left: 65%;
-  top: -65%;
+  /* margin-left: 65%; */
 }
 
 .btn button:nth-child(1) {
