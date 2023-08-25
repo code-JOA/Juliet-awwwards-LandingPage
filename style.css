@@ -139,7 +139,8 @@ button {
   padding: 1.2vw 2vw;
   border-radius: 50px;
   border: 1px solid #000;
-  color: red;
+  color: #000;
+  font-size: 20px;
 }
 
 /* this changes the color for only the word BY LOVING */
