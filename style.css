@@ -184,7 +184,7 @@ img {
   border-radius: 10px;
   border: none;
   font-size: 1vw;
-  top: 50%;
+  margin-top: 30%;
 }
 
 .btn button:nth-child(1) {
