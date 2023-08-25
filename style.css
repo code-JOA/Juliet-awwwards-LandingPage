@@ -154,7 +154,7 @@ button {
 }
 
 #main h1:nth-child(6) {
-  color: blue;
+  color: 282829;
   font-family: "Roslindale";
   position: absolute;
   bottom: 40%;
@@ -184,10 +184,9 @@ button {
 
 /* button */
 
-.btn {
+/* .btn {
   display: flex;
   gap: 2vw;
-  /* bottom: 50%; */
 }
 
 .btn button {
@@ -195,12 +194,11 @@ button {
   border-radius: 10px;
   border: none;
   font-size: 1vw;
-  /* margin-left: 65%; */
 }
 
 .btn button:nth-child(1) {
   background-color: greenyellow;
-}
+} */
 
 /* LOOP */
 #page {
