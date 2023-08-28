@@ -436,3 +436,16 @@ button {
   text-align: center;
   line-height: 1;
 }
+
+.page4 h2:nth-child(5)::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: calc(100% + 20px); /* Adjust the circle's diameter */
+  height: calc(100% + 20px); /* Adjust the circle's diameter */
+  background-color: rgba(0, 0, 255, 0.1); /* Background color of the circle */
+  border-radius: 50%; /* Make it a circle */
+  z-index: -1;
+}
