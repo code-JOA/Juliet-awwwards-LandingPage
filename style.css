@@ -456,5 +456,6 @@ button {
 }
 
 .page4 .black {
-  color: green;
+  color: black;
+  background-color: black;
 }
