@@ -367,7 +367,6 @@ button {
   width: 100%;
   /* background-color: yellow; */
   padding-top: 2vw;
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
