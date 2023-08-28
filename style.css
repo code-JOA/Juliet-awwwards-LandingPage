@@ -487,6 +487,8 @@ button {
 .blue-text {
   color: blue;
   font-size: 80px;
+  margin-left: 2%;
+  top: 0;
 }
 
 .page4 h4:nth-child(10) {
