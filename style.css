@@ -416,7 +416,7 @@ button {
 }
 
 .page4 h2:nth-child(4) {
-  /* color: #ed7c50; */
+  color: #ed7c50;
   font-size: 100px;
   display: flex;
   justify-content: center;
@@ -437,7 +437,7 @@ button {
     z-index: -1;
   } */
 
-  .page4 h2:nth-child(5){
+  .page4 h2:nth-child(4){
     color: blue;
     font-size: 100px;
   }
