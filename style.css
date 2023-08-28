@@ -428,24 +428,19 @@ button {
   font-size: 100px;
 } */
 
-/* .page4 h2:nth-child(5) {
-    color: blue;
-    font-size: 100px;
-    position: relative;
-    display: inline-block;
-    padding: 20px; /* Adjust padding to control circle size */
-    border-radius: 50%; /* Make it a circle */
-    background-color: rgba(0, 0, 255, 0.1); /* Background color of the circle */
-    text-align: center;
-    line-height: 1; 
-} */
+.page4 h2:nth-child(5) {
+  color: blue;
+  font-size: 100px;
+  position: relative;
+  display: inline-block;
 
+  text-align: center;
+  line-height: 1;
+}
 
 .page4 h2:nth-child(5) {
-    font-size: 36px;
-    color: blue;
-    position: relative;
-    display: inline-block;
-  }
-
-
+  font-size: 100px;
+  color: blue;
+  position: relative;
+  display: inline-block;
+}
