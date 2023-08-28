@@ -259,9 +259,9 @@ button {
   left: 0;
   top: 0;
   color: #000;
-  /* width: 100%;
-  height: 100%; */
-  font-size: 100vw;
+  width: 100%;
+  height: 100%;
+  font-size: 20vw;
   font-weight: 100;
   font-family: "franco";
   text-transform: uppercase;
