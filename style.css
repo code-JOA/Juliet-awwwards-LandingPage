@@ -535,10 +535,8 @@ button {
 }
 
 .page5 h1 {
-  font-size: 200px;
+  font-size: 150px;
   font-weight: 100;
   color: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-transform: uppercase;
 }
