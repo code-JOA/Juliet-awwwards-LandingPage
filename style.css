@@ -459,7 +459,7 @@ button {
     line-height: 1;
   }
 
-  .page4 h2:nth-child(5)::before {
+  .page4 h2:nth-child(5) .circle-text::before {
     content: '';
     position: absolute;
     top: 50%;
