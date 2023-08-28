@@ -374,6 +374,10 @@ button {
 }
 
 .page3 button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 60%;
 }
 
 .page3 h2 {
