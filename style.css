@@ -437,7 +437,7 @@ button {
     z-index: -1;
   } */
 
-  .page4 h2:nth-child(4){
+  .page4 h2:nth-child(5){
     color: blue;
     font-size: 100px;
   }
