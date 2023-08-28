@@ -249,6 +249,7 @@ button {
 .client1 {
   height: 400px;
   display: flex;
+  background-color: #000;
   justify-content: center;
   align-items: center;
 }
