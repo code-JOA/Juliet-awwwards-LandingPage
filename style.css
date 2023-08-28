@@ -480,6 +480,8 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #ed7c50;
+  color: #ed7c50;
 }
 
 .page4 h2:nth-child(8) {
