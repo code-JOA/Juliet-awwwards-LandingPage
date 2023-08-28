@@ -218,7 +218,7 @@ button {
   /* background-color: #001627; */
   background-color: #fff;
   /* color: #fff; */
-  height: 500px;
+  height: 600px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -251,6 +251,7 @@ button {
   z-index: 2;
   left: 0;
   top: 0;
+  color: #000;
   width: 100%;
   height: 100%;
   font-size: 70px;
