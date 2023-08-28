@@ -492,5 +492,18 @@ button {
 
 .page4 h4:nth-child(9) {
   font-size: 90px;
-  color: pink;
+  color: red;
+}
+
+.los-angeles {
+  margin: 2px;
+  font-size: 20px;
+  padding: 2px;
+  border-radius: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
