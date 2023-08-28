@@ -466,16 +466,10 @@ button {
 }
 
 .toronto {
-  margin-left: 10%;
+  margin: 10px;
   font-size: 20px;
-  padding: 5px 5px;
-}
-
-.page4 .toronto {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 15%;
+  padding: 10px;
+  border-radius: 10%;
 }
 
 /* button {
