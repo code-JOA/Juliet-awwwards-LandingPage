@@ -261,12 +261,13 @@ button {
   color: #000;
   /* width: 100%;
   height: 100%; */
-  font-size: 200px;
+  font-size: 140px;
   font-weight: 100;
   font-family: "franco";
   text-transform: uppercase;
   display: flex;
   align-items: space-between;
+  border-bottom: 1px solid black; /* Add a straight line with 1px width and black color */
 }
 
 .card {
