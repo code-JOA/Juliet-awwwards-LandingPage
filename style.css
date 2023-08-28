@@ -246,11 +246,19 @@ button {
   background-color: black; /* Color of the vertical line */
 }
 
-.header h2 {
+.client1 {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.client1 h1 {
   position: absolute;
   z-index: 2;
   left: 0;
   top: 0;
+  color: #000;
   width: 100%;
   height: 100%;
   font-size: 70px;
