@@ -511,7 +511,9 @@ button {
 
 .hrline2::before {
   content: "";
-  display: block;
-  border-top: 2px solid red; /* You can adjust the color and thickness */
-  margin-bottom: 5px; /* Adjust the distance between the line and the content */
+  display: inline-block;
+  width: 50px; /* Adjust the width of the line */
+  border-top: 2px solid black; /* You can adjust the color and thickness */
+  margin-right: 10px; /* Adjust the distance between the line and the text */
+  vertical-align: middle;
 }
