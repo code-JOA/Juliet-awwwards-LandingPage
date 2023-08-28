@@ -429,7 +429,8 @@ button {
 } */
 
 .page4 h2:nth-child(5) {
-  color: blue;
+  /* color: blue; */
+  color: white;
   font-size: 90px;
   position: relative;
   display: inline-block;
@@ -451,7 +452,8 @@ button {
 }
 
 .page4 h2:nth-child(6) {
-  color: yellow;
+  /* color: yellow; */
+  color: white;
   margin-left: 5%;
 }
 
@@ -461,7 +463,8 @@ button {
 }
 
 .page4 h2:nth-child(7) {
-  color: yellowgreen;
+  /* color: yellowgreen; */
+  color: white;
   margin-left: 5%;
 }
 
@@ -492,7 +495,9 @@ button {
 
 .page4 h2:nth-child(9) {
   font-size: 90px;
-  color: red;
+  /* color: red; */
+  /* color: white; */
+  color: rgba(133, 102, 246);
   margin-left: 10%;
 }
 
