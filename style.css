@@ -208,6 +208,97 @@ button {
   background-color: #f1f1f1;
 }
 
+@font-face {
+  font-family: "Franco";
+  src: url("FRANCOCENTURY.ttf");
+}
+
+.header,
+.footer {
+  /* background-color: #001627; */
+  background-color: #fff;
+  /* color: #fff; */
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 20px;
+  display: block;
+  text-align: right;
+  /* margin-left: auto; */
+  margin-left: 75%;
+  margin-bottom: 10px;
+  color: black;
+  position: relative;
+  /* border-bottom: 1px solid black; Add a straight line with 1px width and black color */
+}
+
+.header h1::after {
+  content: "";
+  position: absolute;
+  bottom: -150px; /* Adjust the positioning to control the line's distance below h1 */
+  right: 0; /* Adjust the positioning to control the line's placement */
+  width: 1px; /* Width of the vertical line */
+  height: 300%; /* Height of the vertical line */
+  background-color: black; /* Color of the vertical line */
+}
+
+.card {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(28, 50, 100, 0.08);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+}
+
+.card img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+  filter: brightness(0.5);
+}
+
+.card-content {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 70px;
+  font-weight: 100;
+  font-family: "franco";
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+}
+
+.card-content3 {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 70px;
+  font-weight: 100;
+  font-family: "franco";
+  text-transform: uppercase;
+  display: flex;
+  align-items: space-between;
+}
+
 /* canvas {
   position: relative;
   z-index: 9;
