@@ -254,13 +254,13 @@ button {
 
 .client1 h1 {
   position: absolute;
-  z-index: 2;
+  /* z-index: 2; */
   left: 0;
   top: 0;
   color: #000;
-  width: 100%;
-  height: 100%;
-  font-size: 400px;
+  /* width: 100%;
+  height: 100%; */
+  font-size: 100vw;
   font-weight: 100;
   font-family: "franco";
   text-transform: uppercase;
