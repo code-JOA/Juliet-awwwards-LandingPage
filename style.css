@@ -267,7 +267,7 @@ button {
   text-transform: uppercase;
   display: flex;
   align-items: space-between;
-  border-bottom: 1px solid black; /* Add a straight line with 1px width and black color */
+  border-bottom: 0 solid black; /* Add a straight line with 1px width and black color */
 }
 
 .card {
