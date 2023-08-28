@@ -7,5 +7,19 @@
 // });
 
 var typed = new Typed(".autotype", {
-  strings: ["Hi", "Hello", "Ciao", "Ola", "Aloha", "Ahoj", "Konichiwa", ""],
+  strings: [
+    "Hi",
+    "Hello",
+    "Ciao",
+    "Ola",
+    "Aloha",
+    "Ahoj",
+    "Konichiwa",
+    "G'Day",
+    "Marhaba",
+    "Hey",
+    "Yasuo",
+    "Bonjour"
+    "Whatsup"
+  ],
 });
