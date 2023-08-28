@@ -515,6 +515,6 @@ button {
   width: 50px; /* Adjust the width of the line */
   border-top: 2px solid white; /* You can adjust the color and thickness */
   margin-right: 10px; /* Adjust the distance between the line and the text */
-  /* vertical-align: middle; */
-  bottom: 40px;
+  vertical-align: middle;
+  transform: translateY(-50%); /* Move the line vertically by half its height */
 }
