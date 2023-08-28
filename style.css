@@ -484,7 +484,11 @@ button {
   font-size: 90px;
 }
 
-.page4 h4:nth-child(9) {
-  font-size: 90px;
+.blue-text {
   color: blue;
+}
+
+.page4 h4:nth-child(10) {
+  font-size: 90px;
+  color: pink;
 }
