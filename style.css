@@ -401,6 +401,9 @@ button {
   font-family: "Roslindale";
   font-weight: 300;
   text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* slides for projects */
