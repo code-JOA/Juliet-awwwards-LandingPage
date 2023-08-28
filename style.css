@@ -408,7 +408,7 @@ button {
   width: 80%;
   height: 1px;
   background-color: rgb(219, 219, 219);
-  top: 1px;
+  top: 0;
   margin-bottom: 45px;
   margin-left: 15%;
 }
