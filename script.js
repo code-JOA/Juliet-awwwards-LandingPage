@@ -19,7 +19,9 @@ var typed = new Typed(".autotype", {
     "Marhaba",
     "Hey",
     "Yasuo",
-    "Bonjour"
-    "Whatsup"
+    "Bonjour",
+    "Whatsup",
+    "Howdy",
+    "",
   ],
 });
