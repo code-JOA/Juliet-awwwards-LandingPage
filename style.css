@@ -386,6 +386,11 @@ button {
 }
 
 .page4 h1 {
+  font-family: "Aeonik";
+}
+
+.page4 span {
+  font-family: "Rogsant";
 }
 
 /* slides for projects */
