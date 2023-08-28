@@ -516,4 +516,5 @@ button {
   border-top: 2px solid white; /* You can adjust the color and thickness */
   margin-right: 10px; /* Adjust the distance between the line and the text */
   /* vertical-align: middle; */
+  bottom: 40px;
 }
