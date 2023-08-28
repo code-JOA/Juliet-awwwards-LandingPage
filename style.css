@@ -466,6 +466,12 @@ button {
 }
 
 .toronto {
-  padding-top: 20px;
   margin-left: 10%;
+  font-size: 20px;
+  padding: 5px 5px;
 }
+
+/* button {
+    font-size: 4.5vw;
+    padding: 5vw 15vw;
+  } */
