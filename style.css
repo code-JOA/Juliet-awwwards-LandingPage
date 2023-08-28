@@ -449,3 +449,7 @@ button {
   border-radius: 50%; /* Make it a circle */
   z-index: -1;
 }
+
+.page4 h2:nth-child(6) {
+  color: yellow;
+}
