@@ -512,9 +512,9 @@ button {
 .hrline2::before {
   content: "";
   display: inline-block;
-  width: 300px; /* Adjust the width of the line */
+  width: 200px; /* Adjust the width of the line */
   border-top: 2px solid white; /* You can adjust the color and thickness */
-  margin-right: 10px; /* Adjust the distance between the line and the text */
+  margin-left: 5%; /* Adjust the distance between the line and the text */
   vertical-align: middle;
   transform: translateY(50%); /* Move the line vertically by half its height */
 }
