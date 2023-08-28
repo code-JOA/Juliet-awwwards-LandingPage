@@ -514,6 +514,8 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: rgba(133, 102, 246);
+  border-radius: 10px solid rgba(133, 102, 246);
 }
 
 .hrline2::before {
