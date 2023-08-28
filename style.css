@@ -269,16 +269,6 @@ button {
   align-items: space-between;
 }
 
-.client1 h2::after {
-  content: "";
-  position: absolute;
-  bottom: -10px; /* Adjust the positioning to control the line's distance below h2 */
-  left: 0;
-  width: 100%;
-  height: 2px; /* Height of the line */
-  background-color: black; /* Color of the line */
-}
-
 .card {
   width: 100vw;
   height: 100vh;
