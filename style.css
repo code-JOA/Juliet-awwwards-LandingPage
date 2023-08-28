@@ -509,9 +509,9 @@ button {
   align-items: center;
 }
 
-.hrline2::before {
+/* .hrline2::before {
   content: "";
   display: block;
   border-top: 2px solid black; /* You can adjust the color and thickness */
   margin-bottom: 10px; /* Adjust the distance between the line and the content */
-}
+} */
