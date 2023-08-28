@@ -399,6 +399,8 @@ button {
 .page4 h2 {
   font-size: 96px;
   font-family: "Roslindale";
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 /* slides for projects */
