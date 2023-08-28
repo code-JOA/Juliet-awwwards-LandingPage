@@ -423,12 +423,12 @@ button {
   align-items: center;
 }
 
-.page4 h2:nth-child(5) {
+/* .page4 h2:nth-child(5) {
   color: blue;
   font-size: 100px;
-}
+} */
 
-.page4 h2:nth-child(5)::before {
+.page4 h2:nth-child(5) {
   content: "";
   position: absolute;
   top: 50%;
