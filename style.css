@@ -477,7 +477,6 @@ button {
   align-items: center;
 }
 
-/* button {
-    font-size: 4.5vw;
-    padding: 5vw 15vw;
-  } */
+.page4 h2:nth-child(8) {
+  color: red;
+}
