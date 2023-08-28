@@ -527,3 +527,8 @@ button {
   vertical-align: middle;
   transform: translateY(50%); /* Move the line vertically by half its height */
 }
+
+.page5 {
+  width: 100vh;
+  height: 100%;
+}
