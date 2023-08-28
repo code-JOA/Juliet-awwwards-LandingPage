@@ -25,6 +25,11 @@
   src: url("./fonts/rogsantregular.otf");
 }
 
+@font-face {
+  font-family: "Franco";
+  src: url("./fonts/FRANCOCENTURY.ttf");
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -201,17 +206,6 @@ button {
 } */
 
 /* LOOP */
-#page {
-  position: relative;
-  height: 20vh;
-  width: 100vw;
-  background-color: #f1f1f1;
-}
-
-@font-face {
-  font-family: "Franco";
-  src: url("./fonts/FRANCOCENTURY.ttf");
-}
 
 .header,
 .footer {
@@ -385,6 +379,22 @@ button {
   background-color: red;
 }
 
+.line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.hrline {
+  width: 80%;
+  height: 1px;
+  background-color: rgb(219, 219, 219);
+  top: 0;
+  margin-bottom: 45px;
+  margin-left: 15%;
+}
+
 .page4 h1 {
   font-family: "Aeonik";
   margin-left: 25px;
@@ -405,20 +415,9 @@ button {
   display: flex;
 }
 
-/* slides for projects */
-
-.line {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
-.hrline {
-  width: 80%;
-  height: 1px;
-  background-color: rgb(219, 219, 219);
-  top: 0;
-  margin-bottom: 45px;
-  margin-left: 15%;
+.page4 h2:nth-child(4) {
+  color: #ed7c50;
+  font-size: 110px;
+  /* font-family: "Aeonik"; */
+  /* margin-left: -20%; */
 }
