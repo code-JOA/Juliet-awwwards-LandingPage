@@ -210,7 +210,7 @@ button {
 
 @font-face {
   font-family: "Franco";
-  src: url("FRANCOCENTURY.ttf");
+  src: url("./fonts/FRANCOCENTURY.ttf");
 }
 
 .header,
