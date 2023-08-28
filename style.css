@@ -481,4 +481,9 @@ button {
 .page4 h2:nth-child(8) {
   color: #ed7c50;
   font-family: "Aeonik";
+  font-size: 90px;
+}
+
+.Anding {
+  font-size: 90px;
 }
