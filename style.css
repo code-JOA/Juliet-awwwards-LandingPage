@@ -363,7 +363,7 @@ button {
 
 /* projects */
 .page3 {
-  height: 100vh;
+  height: 10vh;
   width: 100%;
   /* background-color: yellow; */
   padding-top: 2vw;
@@ -377,7 +377,6 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  top: 0;
   margin-left: 35%;
 }
 
