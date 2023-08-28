@@ -363,7 +363,7 @@ button {
 
 /* projects */
 .page3 {
-  min-height: 10vh;
+  height: 10vh;
   width: 100%;
   /* background-color: yellow; */
   padding-top: 2vw;
