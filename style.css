@@ -377,17 +377,12 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 35%;
+  margin-left: 30%;
 }
 
-.page3 h2 {
-  font-size: 8vw;
-  font-family: PP mori;
-  font-weight: 300;
-  /* font-family: CardinalR; */
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.page4 {
+  height: 100vh;
+  width: 100vw;
   /* margin-left: 53vw; */
 }
 
