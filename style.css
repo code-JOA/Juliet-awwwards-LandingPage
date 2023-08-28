@@ -484,11 +484,10 @@ button {
   font-size: 90px;
 }
 
-.blue-text {
-  color: blue;
+.white-text {
+  color: white;
   font-size: 80px;
   margin-left: 2%;
-  top: 0;
 }
 
 .page4 h4:nth-child(10) {
