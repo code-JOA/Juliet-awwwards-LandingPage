@@ -459,3 +459,8 @@ button {
   color: black;
   background-color: black;
 }
+
+.page4 h2:nth-child(7) {
+  color: yellowgreen;
+  margin-left: 5%;
+}
