@@ -510,5 +510,8 @@ button {
 }
 
 .hrline2 {
-  color: blue;
+  background-color: rgb(219, 219, 219);
+  width: 30%;
+  height: 1px;
+  margin-left: 15%;
 }
