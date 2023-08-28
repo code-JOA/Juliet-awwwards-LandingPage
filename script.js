@@ -6,7 +6,7 @@
 //   yoyo: true,
 // });
 
-var typed = new Typed(".autotype", {
+var typed = new Typed(".auto-type", {
   strings: [
     "Hi",
     "Hello",
@@ -22,6 +22,9 @@ var typed = new Typed(".autotype", {
     "Bonjour",
     "Whatsup",
     "Howdy",
-    "",
+    "Shalom",
   ],
+  typeSpeed: 150,
+  backSpeed: 150,
+  loop: true,
 });
