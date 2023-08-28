@@ -495,7 +495,7 @@ button {
   color: red;
 }
 
-.los-angeles {
+.los {
   margin: 2px;
   font-size: 20px;
   padding: 2px;
@@ -506,4 +506,8 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.angeles {
+  font-color: blue;
 }
