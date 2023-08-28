@@ -531,4 +531,14 @@ button {
 .page5 {
   width: 100vh;
   height: 100%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page5 h1 {
+  font-size: 100px;
+  font-weight: 100;
+  color: #black;
 }
