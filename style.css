@@ -423,21 +423,20 @@ button {
   align-items: center;
 }
 
-/* .page4 h2:nth-child(5) {
+.page4 h2:nth-child(5) {
   color: blue;
   font-size: 100px;
-} */
-
+}
 
 .page4 h2:nth-child(5)::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 120px; /* Adjust the circle's diameter */
-    height: 120px; /* Adjust the circle's diameter */
-    border: 2px solid black; /* Border style */
-    border-radius: 50%; /* Make it a circle */
-    z-index: -1;
-  } */
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 120px; /* Adjust the circle's diameter */
+  height: 120px; /* Adjust the circle's diameter */
+  border: 2px solid black; /* Border style */
+  border-radius: 50%; /* Make it a circle */
+  z-index: -1;
+}
