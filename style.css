@@ -459,7 +459,7 @@ button {
   /* color: yellow; */
   color: white;
   margin-left: 2%;
-  word-spacing: 170px;
+  word-spacing: 200px;
 }
 
 .page4 .black {
@@ -470,7 +470,7 @@ button {
 .page4 h2:nth-child(7) {
   color: yellowgreen;
   /* color: white; */
-  margin-left: 5%;
+  margin-left: 2%;
   word-spacing: 190px;
 }
 
