@@ -588,6 +588,9 @@ button {
 
 .footer-location a{
   color: black;
+  font-size: 21px;
+  line-height: 21px;
+  min-height:21px;
 }
 
 
