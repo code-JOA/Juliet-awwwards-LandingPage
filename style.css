@@ -684,6 +684,7 @@ button {
 .footer-menu .footer-nav h3{
     font-size:20px;
     font-weight:500;
+    font-family: 'franco';
     color:black;
     text-transform: uppercase;
 }
@@ -693,7 +694,7 @@ button {
     color: black;
     line-height:1.8;
     padding-top:12px;
-    font-family: "Aeonik";
+    /* font-family: "Aeonik"; */
 }
 .footer-menu .footer-nav ul{
     padding-top:12px;
