@@ -551,8 +551,9 @@ button {
   color: #ed7c50;
 }
 
-.footer-page h1:nth-child(1) {
+.footer-page h1:nth-child(2) {
   color: red;
-  font-weight: 10;
+  font-family: "Aeonik";
+
 }
 
