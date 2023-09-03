@@ -575,13 +575,16 @@ button {
   color: black;
   margin-bottom: 15px;
   font-family: "franco";
-}
-
-.footer-location .h4{
   font-size: 35px;
   line-height: 42px;
   margin-bottom: 15px;
 }
+
+/* .footer-location .h4{
+  font-size: 35px;
+  line-height: 42px;
+  margin-bottom: 15px;
+} */
 
 
 
