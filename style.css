@@ -593,6 +593,10 @@ button {
   min-height:21px;
 }
 
+.footer-location .h5{
+  display: inline-block;
+}
+
 
 
 .footer-title a{
