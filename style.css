@@ -317,13 +317,8 @@ button {
   align-items: space-between;
 }
 
-/* canvas {
-  position: relative;
-  z-index: 9;
-  max-width: 100vw;
-  max-height: 100vh;
-} */
-#loop {
+
+/* #loop {
   display: flex;
   position: absolute;
   top: 30%;
@@ -352,7 +347,7 @@ button {
   100% {
     transform: translateX(-100%);
   }
-}
+} */
 
 /*  */
 
