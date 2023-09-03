@@ -417,8 +417,8 @@ button {
 }
 
 .page4 h2:nth-child(4) {
-  color: #ed7c50;
-  /* color: white; */
+  /* color: #ed7c50; */
+  color: white;
   font-size: 100px;
   display: flex;
   justify-content: center;
@@ -468,8 +468,8 @@ button {
 }
 
 .page4 h2:nth-child(7) {
-  color: yellowgreen;
-  /* color: white; */
+  /* color: yellowgreen; */
+  color: white;
   margin-left: 2%;
   word-spacing: 190px;
 }
