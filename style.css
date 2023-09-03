@@ -720,6 +720,13 @@ button {
     color:#fff;
     text-transform: capitalize;
 }
+
+.footer-menu .footer-nav p{
+    font-size:18px;
+    color:rgb(0, 0, 0);
+    line-height:1.8;
+    padding-top:12px;
+}
 .footer-menu .footer-nav ul{
     padding-top:12px;
 }
