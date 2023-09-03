@@ -439,7 +439,7 @@ button {
   display: inline-block;
   text-align: center;
   line-height: 1;
-  word-spacing: 30px;
+  word-spacing: 50px;
 }
 
 .page4 h2:nth-child(5)::before {
@@ -459,7 +459,7 @@ button {
   /* color: yellow; */
   color: white;
   margin-left: 5%;
-  word-spacing: 90px;
+  word-spacing: 170px;
 }
 
 .page4 .black {
