@@ -654,10 +654,11 @@ button {
 .footer-page2{
     position: relative;
     width:100%;
-    height:50vh;
+    height:30vh;
     background-color: #f5f4f5;
     padding:80px 120px;
     display:flex;
+    padding-top: 15%;
 }
 .newsletter h2{
     font-size:35px;
