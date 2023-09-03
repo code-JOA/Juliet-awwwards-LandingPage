@@ -565,6 +565,12 @@ button {
   font-size: 7.265vw;
 }
 
+.footer-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer-title a{
     position: relative;
     text-decoration:none;
