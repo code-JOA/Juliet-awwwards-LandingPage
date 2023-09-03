@@ -571,8 +571,9 @@ button {
   align-items: center;
 }
 
-.footer-location h4{
+.footer-location h3{
   color: black;
+  margin-bottom: 15px;
 }
 
 
