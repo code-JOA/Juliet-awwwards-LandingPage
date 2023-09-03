@@ -702,9 +702,7 @@ button {
 }
 .footer-menu .footer-nav ul li{
     list-style:none;
-    gap: 10px;
-    display: flex;
-    justify-content: space-between;
+     word-spacing: 30px;
 }
 .footer-menu .footer-nav ul li a{
     text-decoration:none;
