@@ -585,6 +585,7 @@ button {
     color:rgb(0, 0, 0);
     text-transform: capitalize;
     letter-spacing:1px;
+    font-family: "franco";
 }
 .footer-title p{
     font-size:18px;
