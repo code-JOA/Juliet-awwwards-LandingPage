@@ -431,7 +431,7 @@ button {
 } */
 
 .page4 h2:nth-child(5) {
-  /* color: blue; */
+  color: blue;
   color: white;
   font-size: 90px;
   position: relative;
