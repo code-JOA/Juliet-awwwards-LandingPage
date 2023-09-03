@@ -560,6 +560,7 @@ button {
 .footer-page h1:nth-child(2) {
   color: black;
   font-family: "Aeonik";
+  font-weight: 500;
   font-size: 7.265vw;
 }
 
