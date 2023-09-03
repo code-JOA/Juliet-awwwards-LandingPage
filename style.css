@@ -661,7 +661,7 @@ button {
 }
 .newsletter h2{
     font-size:35px;
-    font-weight:600;
+    font-weight:400;
     font-family: "franco";
     color:black;
     text-transform: uppercase;
@@ -683,7 +683,7 @@ button {
 }
 .footer-menu .footer-nav h3{
     font-size:35px;
-    font-weight:500;
+    font-weight:400;
     font-family: 'franco';
     color:black;
     text-transform: uppercase;
