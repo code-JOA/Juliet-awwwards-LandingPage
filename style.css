@@ -665,6 +665,13 @@ button {
     color:#fff;
     text-transform: capitalize;
 }
+
+.newsletter p{
+    font-size:18px;
+    color:rgb(0, 0, 0);
+    line-height:1.8;
+    padding-top:12px;
+}
 .newsletter form{
     padding-top:15px;
 }
