@@ -417,12 +417,13 @@ button {
 }
 
 .page4 h2:nth-child(4) {
-  /* color: #ed7c50; */
-  color: white;
+  color: #ed7c50;
+  /* color: white; */
   font-size: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
+  word-spacing: 20px;
 }
 
 /* .page4 h2:nth-child(5) {
