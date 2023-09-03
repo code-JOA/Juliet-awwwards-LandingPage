@@ -598,3 +598,60 @@ button {
 }
 
 
+
+.footer-title a{
+    position: relative;
+    text-decoration:none;
+    font-size:25px;
+    font-weight:700;
+    color:rgb(0, 0, 0);
+    text-transform: capitalize;
+    letter-spacing:1px;
+}
+.footer-title p{
+    font-size:18px;
+    color:rgb(0, 0, 0);
+    line-height:1.8;
+    padding-top:12px;
+}
+.social-icon{
+    position: relative;
+    top:30px;
+}
+.social-icon i{
+    font-size:16px;
+    color:rgb(255, 255, 255);
+    position: relative;
+    left:-4px;
+    width:45px;
+    height:45px;
+    text-align:center;
+    line-height:45px;
+    background-color: #ff8f0e74;
+    border-radius:50%;
+    margin:0 4px;
+    cursor: pointer;
+    transition:0.3s;
+}
+.social-icon i:hover{
+    background-color:#20bc68;
+}
+.footer-link h2{
+    color:rgb(0, 0, 0);
+}
+.footer-link ul{
+    padding-top:16px;
+}
+.footer-link ul li{
+    list-style:none;
+    color:rgb(0, 0, 0);
+    font-size:18px;
+    text-transform: capitalize;
+    line-height:2;
+    cursor: pointer;
+    transition:0.3s;
+}
+.footer-link ul li:hover{
+    color:#20bc68;
+}
+
