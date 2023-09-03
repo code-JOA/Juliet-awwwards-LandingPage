@@ -565,11 +565,15 @@ button {
   font-size: 7.265vw;
 }
 
-.footer-link{
+.footer-location{
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
+
+
+
+
 
 .footer-title a{
     position: relative;
