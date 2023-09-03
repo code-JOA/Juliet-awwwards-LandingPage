@@ -551,6 +551,7 @@ button {
   color: #ed7c50;
 }
 
-.footer-page h1 nth:child(3) {
+.footer-page h1:nth-child(1) {
   color: red;
 }
+
