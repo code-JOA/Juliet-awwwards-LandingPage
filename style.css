@@ -619,6 +619,8 @@ button {
 .footer-link h2{
     color:rgb(0, 0, 0);
     font-family: "franco";
+    margin: 0px 0px 15px;
+    text-transform: uppercase;
 }
 .footer-link ul{
     padding-top:16px;
