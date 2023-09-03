@@ -712,7 +712,7 @@ button {
     cursor: pointer;
     transition:0.5s;
     /* margin: 0px 87.5px 0px 0px; */
-    padding: 0px 87.5px 0px 0px;
+    gap: 5px;
 
 }
 .footer-menu .footer-nav ul li a :hover{
