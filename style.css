@@ -439,6 +439,7 @@ button {
   display: inline-block;
   text-align: center;
   line-height: 1;
+  word-spacing: 30px;
 }
 
 .page4 h2:nth-child(5)::before {
