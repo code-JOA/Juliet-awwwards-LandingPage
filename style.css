@@ -702,7 +702,6 @@ button {
 }
 .footer-menu .footer-nav ul li{
     list-style:none;
-     word-spacing: 30px;
 }
 .footer-menu .footer-nav ul li a{
     text-decoration:none;
@@ -712,7 +711,8 @@ button {
     line-height:1.8;
     cursor: pointer;
     transition:0.5s;
-    /* margin: 0px 87.5px 0px 0px; */
+    word-spacing: 20px;
+
     
 
 }
