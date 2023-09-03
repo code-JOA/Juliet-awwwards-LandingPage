@@ -554,6 +554,7 @@ button {
 .footer-page h1:nth-child(1) {
   font-size: 96px;
   font-weight: 300;
+  font-family: "franco";
 }
 
 .footer-page h1:nth-child(2) {
