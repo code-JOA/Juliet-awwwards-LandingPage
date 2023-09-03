@@ -662,8 +662,9 @@ button {
 .newsletter h2{
     font-size:25px;
     font-weight:600;
-    color:#fff;
-    text-transform: capitalize;
+    font-family: "franco";
+    color:black;
+    text-transform: uppercase;
 }
 
 .newsletter p{
