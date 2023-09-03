@@ -702,6 +702,7 @@ button {
 }
 .footer-menu .footer-nav ul li{
     list-style:none;
+    color: #000;
 }
 .footer-menu .footer-nav ul li a{
     text-decoration:none;
