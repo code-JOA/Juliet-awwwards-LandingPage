@@ -706,11 +706,12 @@ button {
 .footer-menu .footer-nav ul li a{
     text-decoration:none;
     font-size:16px;
-    color:#fff;
+    color:#000;
     text-transform: capitalize;
     line-height:1.8;
     cursor: pointer;
     transition:0.5s;
+    margin: 0px 87.5px 0px 0px;
 }
 .footer-menu .footer-nav ul li a :hover{
     color: #22e6aa;
