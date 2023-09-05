@@ -370,7 +370,7 @@ button {
 }
 
 .page4 {
-  height: 100vh;
+  height: 150vh;
   width: 100vw;
   background-color: #000;
 }
@@ -513,6 +513,7 @@ button {
   width: 20%;
   height: 40%;
   position: absolute;
+  top: 2px;
 }
 
 .los {
