@@ -505,7 +505,8 @@ button {
 
 .title-circle{
   position: absolute;
-  
+  top: 1vh;
+  left: 100px;
 }
 
 .los {
