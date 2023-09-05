@@ -509,6 +509,10 @@ button {
   left: 100px;
 }
 
+.title-circle img{
+  width: 10px;
+}
+
 .los {
   margin: 2px;
   font-size: 20px;
