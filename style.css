@@ -503,6 +503,11 @@ button {
   margin-left: 10%;
 }
 
+.title-circle{
+  position: absolute;
+  
+}
+
 .los {
   margin: 2px;
   font-size: 20px;
