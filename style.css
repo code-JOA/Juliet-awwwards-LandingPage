@@ -512,6 +512,13 @@ button {
   top: 1vh;
 } */
 
+.page4 .title-circle img{
+  width: 20%;
+  height: 40%;
+  position: absolute;
+  top: 1vh;
+} 
+
 .los {
   margin: 2px;
   font-size: 20px;
