@@ -503,13 +503,9 @@ button {
   margin-left: 10%;
 }
 
-.title-circle{
-  position: relative;
-  top: 40%;
-  left: 100px;
-}
 
-.page4 .cirlce-text img{
+
+.page4 img{
   width: 20%;
   height: 40%;
   position: absolute;
