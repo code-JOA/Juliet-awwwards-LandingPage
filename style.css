@@ -370,7 +370,7 @@ button {
 }
 
 .page4 {
-  height: 150vh;
+  height: 100vh;
   width: 100vw;
   background-color: #000;
 }
@@ -504,13 +504,13 @@ button {
 }
 
 
-
-.page4 img{
+/* red circle */
+/* .page4 img{
   width: 20%;
   height: 40%;
   position: absolute;
   top: 1vh;
-}
+} */
 
 .los {
   margin: 2px;
