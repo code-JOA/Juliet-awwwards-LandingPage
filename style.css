@@ -505,11 +505,12 @@ button {
 
 .title-circle{
   position: absolute;
+  top: 10%;
   left: 100px;
 }
 
 .title-circle img{
-  width: 50%;
+  width: 20%;
 }
 
 .los {
