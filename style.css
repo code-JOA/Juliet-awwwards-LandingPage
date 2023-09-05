@@ -512,6 +512,7 @@ button {
 .page4 img{
   width: 20%;
   height: 40%;
+  position: absolute;
 }
 
 .los {
