@@ -284,7 +284,7 @@ button {
   height: 100%;
   object-fit: cover;
   z-index: 1;
-  filter: brightness(0.5);
+  /* filter: brightness(0.5); */
 }
 
 .card-content {
@@ -316,7 +316,6 @@ button {
   display: flex;
   align-items: space-between;
 }
-
 
 /* #loop {
   display: flex;
@@ -352,10 +351,10 @@ button {
 /*  */
 
 /* projects */
-.page3 {
+/* .page3 {
   height: 14vh;
   width: 100%;
-  /* background-color: yellow; */
+  background-color: yellow;
   padding-top: 2vw;
   display: flex;
   justify-content: center;
@@ -363,16 +362,39 @@ button {
 }
 
 .page3 button {
+   display: flex;
+  justify-content: center;
+  align-items: center; 
+   margin-left: 15%; 
+  padding-top: 2vw;
+} */
+
+.page4 {
+  height: 150vh;
+  width: 100vw;
+  background-color: #282829;
+}
+
+/* selected projects button */
+
+#btndiv {
+  /* background-color: yellow; */
+  padding-top: 2vw;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 15%;
+  padding-bottom: 10vw;
 }
 
-.page4 {
-  height: 100vh;
-  width: 100vw;
-  background-color: #000;
+#btndiv button {
+  padding-top: 2vw;
+  padding: 1.3vw 2.5vw;
+  border-radius: 100px;
+  border: 1.5px solid #e6e6e6;
+  background-color: #fff;
+  font-size: 1vw;
+  font-weight: 500;
+  letter-spacing: -1px;
 }
 
 .line {
@@ -453,14 +475,15 @@ button {
 .page4 h2:nth-child(6) {
   /* color: yellow; */
   color: white;
+  font-size: 90px;
   margin-left: 2%;
-  word-spacing: 200px;
+  word-spacing: 40px;
 }
 
-.page4 .black {
+/* .page4 .black {
   color: #000;
   background-color: #000;
-}
+} */
 
 .page4 h2:nth-child(7) {
   /* color: yellowgreen; */
@@ -473,20 +496,22 @@ button {
   margin: 2px;
   font-size: 20px;
   padding: 2px;
-  border-radius: 20px solid #ed7c50;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: -4%;
+  margin-right: 5%;
   height: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
   color: #ed7c50;
+  background-color: #282829;
+  border: 2px solid #ed7c50;
 }
 
 .page4 h2:nth-child(8) {
-  color: #ed7c50;
-  font-family: "Aeonik";
+  color: #fff;
   font-size: 90px;
+  word-spacing: 300px;
+  margin-left: 2%;
 }
 
 .white-text {
@@ -497,12 +522,10 @@ button {
 
 .page4 h2:nth-child(9) {
   font-size: 90px;
-  /* color: red; */
-  /* color: white; */
-  color: rgba(133, 102, 246);
+  font-family: "Aeonik";
+  color: #ed7c50;
   margin-left: 10%;
 }
-
 
 /* red circle */
 /* .page4 img{
@@ -511,7 +534,12 @@ button {
   position: absolute;
   top: 1vh;
 } */
- 
+
+.page4 h2:nth-child(10) {
+  color: rgba(133, 102, 246);
+  margin-left: 10%;
+  font-size: 90px;
+}
 
 .los {
   margin: 2px;
@@ -524,8 +552,9 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #000;
-  border-radius: 10px solid rgba(133, 102, 246);
+  background-color: #282829;
+  color: rgba(133, 102, 246);
+  border: 2px solid rgba(133, 102, 246);
 }
 
 .hrline2::before {
@@ -533,7 +562,8 @@ button {
   display: inline-block;
   width: 200px; /* Adjust the width of the line */
   border-top: 2px solid white; /* You can adjust the color and thickness */
-  margin-left: -40px; /* Adjust the distance between the line and the text */
+  margin-left: 2%; /* Adjust the distance between the line and the text */
+  margin-right: 5%;
   vertical-align: middle;
   transform: translateY(50%); /* Move the line vertically by half its height */
 }
@@ -543,7 +573,6 @@ button {
   height: 50%;
   background-color: #f5f4f5;
   padding-top: 5%;
-  
 }
 
 .footer-page h1 {
@@ -572,7 +601,6 @@ button {
   font-weight: 500;
   font-size: 7.265vw;
 }
-
 
 /* 
 .footer-page2{
@@ -656,75 +684,71 @@ button {
 
 /*for responsive*/
 
-
 /*  */
 
-.footer-page2{
-    position: relative;
-    width:100%;
-    height:40vh;
-    background-color: #f5f4f5;
-    padding:80px 120px;
-    display:flex;
-    padding-top: 10%;
+.footer-page2 {
+  position: relative;
+  width: 100%;
+  height: 40vh;
+  background-color: #f5f4f5;
+  padding: 80px 120px;
+  display: flex;
+  padding-top: 10%;
 }
-.newsletter h2{
-    font-size:30px;
-    font-weight:400;
-    font-family: "franco";
-    color:black;
-    text-transform: uppercase;
-}
-
-.newsletter p{
-    font-size:18px;
-    color: black;
-    line-height:1.8;
-    padding-top:12px;
+.newsletter h2 {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "franco";
+  color: black;
+  text-transform: uppercase;
 }
 
-.footer-menu{
-    display:flex;
-    margin-left:80px;
-}
-.footer-menu .footer-nav{
-    margin:0 60px;
-}
-.footer-menu .footer-nav h3{
-    font-size:30px;
-    font-weight:400;
-    font-family: 'franco';
-    color:black;
-    text-transform: uppercase;
+.newsletter p {
+  font-size: 18px;
+  color: black;
+  line-height: 1.8;
+  padding-top: 12px;
 }
 
-.footer-menu .footer-nav p{
-    font-size:18px;
-    color: black;
-    line-height:1.8;
-    padding-top:12px;
-    /* font-family: "Aeonik"; */
+.footer-menu {
+  display: flex;
+  margin-left: 80px;
 }
-.footer-menu .footer-nav ul{
-    padding-top:12px;
+.footer-menu .footer-nav {
+  margin: 0 60px;
 }
-.footer-menu .footer-nav ul li{
-    list-style:none;
-    color: #000;
+.footer-menu .footer-nav h3 {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "franco";
+  color: black;
+  text-transform: uppercase;
 }
-.footer-menu .footer-nav ul li a{
-    text-decoration:none;
-    font-size:16px;
-    color:#000;
-    text-transform: capitalize;
-    line-height:1.8;
-    cursor: pointer;
-    transition:0.5s;
-    word-spacing: 30px;
 
-    
-
+.footer-menu .footer-nav p {
+  font-size: 18px;
+  color: black;
+  line-height: 1.8;
+  padding-top: 12px;
+  /* font-family: "Aeonik"; */
 }
-.footer-nav ul li a :hover{
-    background-color: yellowgreen;
+.footer-menu .footer-nav ul {
+  padding-top: 12px;
+}
+.footer-menu .footer-nav ul li {
+  list-style: none;
+  color: #000;
+}
+.footer-menu .footer-nav ul li a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #000;
+  text-transform: capitalize;
+  line-height: 1.8;
+  cursor: pointer;
+  transition: 0.5s;
+  word-spacing: 30px;
+}
+.footer-nav ul li a :hover {
+  background-color: yellowgreen;
 }
