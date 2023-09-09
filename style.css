@@ -302,6 +302,13 @@ button {
   justify-content: center;
 }
 
+.client2 {
+  height: 140px;
+  width: 100vw;
+  display: flex;
+  /* background-color: red; */
+}
+
 .card-content-2 {
   position: absolute;
   z-index: 2;
