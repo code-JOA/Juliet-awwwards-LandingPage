@@ -381,8 +381,8 @@ canvas {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* position: absolute; */
-  /* top: 30%; */
+  position: absolute;
+  top: 50%;
   height: 25%;
   width: 100%;
   font-size: 50px;
