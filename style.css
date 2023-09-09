@@ -371,6 +371,9 @@ canvas {
   height: 50vh;
   width: 100vw;
   background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #loop {
