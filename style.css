@@ -366,7 +366,7 @@ canvas {
   }
 } */
 
-/* #loop {
+#loop {
   display: flex;
   position: absolute;
   top: 30%;
@@ -395,7 +395,7 @@ canvas {
   100% {
     transform: translateX(-100%);
   }
-} */
+}
 
 /*  */
 
