@@ -306,7 +306,7 @@ button {
   height: 140px;
   width: 100vw;
   display: flex;
-  /* background-color: red; */
+  background-color: red;
 }
 
 .card-content-2 {
