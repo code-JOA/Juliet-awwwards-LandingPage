@@ -366,6 +366,13 @@ canvas {
   }
 } */
 
+#page6 {
+  position: relative;
+  height: 50vh;
+  width: 100vw;
+  background-color: #111;
+}
+
 #loop {
   display: flex;
   position: absolute;
