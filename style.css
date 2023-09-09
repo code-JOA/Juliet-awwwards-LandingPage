@@ -314,6 +314,7 @@ button {
   font-family: "franco";
   text-transform: uppercase;
   display: flex;
+  align-items: space-between;
   justify-content: center;
 }
 
