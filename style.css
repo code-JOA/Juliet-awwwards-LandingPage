@@ -303,7 +303,7 @@ button {
 }
 
 .client2 {
-  height: 50%;
+  height: 100%;
   width: 100vw;
   display: flex;
   background-color: red;
