@@ -370,7 +370,7 @@ canvas {
   position: relative;
   height: 50vh;
   width: 100vw;
-  background-color: #111;
+  background-color: transparent;
 }
 
 #loop {
