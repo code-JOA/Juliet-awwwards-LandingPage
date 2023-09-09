@@ -392,7 +392,7 @@ canvas {
 #loop > h1 {
   font-size: 5.5vw;
   font-weight: 100;
-  /* text-transform: capitalize; */
+  text-transform: lowercase;
   animation-name: anim;
   animation-duration: 15s;
   animation-timing-function: linear;
