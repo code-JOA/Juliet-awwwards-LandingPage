@@ -360,6 +360,46 @@ hr {
   background-color: red;
 }
 
+
+
+.card3 {
+  width: 100vw;
+  height: 10vh;
+  background: rgb(28, 50, 100, 0.08);
+  background-color: #fff;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  position: sticky;
+  top: 0;
+}
+
+.card3 h1 {
+  color: #000;
+  height: 70px;
+  font-size: 24px;
+  font-style: normal;
+  font-family: "franco";
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 2%;
+  padding-top: 3vw;
+  /* background-color: yellow; */
+}
+
+.card3 h2 {
+  color: #000;
+  font-family: "franco";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 38%;
+  padding-top: 3vw;
+  height: 70px;
+  /* background-color: blue; */
+}
+
 /* .line0 {
   width: 90%;
   height: 30%;
