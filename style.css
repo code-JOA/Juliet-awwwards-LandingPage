@@ -360,8 +360,6 @@ hr {
   background-color: red;
 }
 
-
-
 .card3 {
   width: 100vw;
   height: 10vh;
@@ -422,6 +420,10 @@ hr {
   background-color: red;
   padding-top: 10%;
 } */
+
+.bg-color {
+  background-color: #000;
+}
 
 .client2 h2 {
   font-size: 150px;
