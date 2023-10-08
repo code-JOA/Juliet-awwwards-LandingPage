@@ -352,6 +352,22 @@ button {
   padding-top: 8vw;
 }
 
+.card2 :nth-child(1) {
+  line-height: 4px;
+  border-bottom: 1.5px solid #000;
+
+  /* color: red; */
+}
+
+.card2 :nth-child(2) {
+  line-height: 4px;
+  border-bottom: 1.5px solid #000;
+
+  /* color: red; */
+}
+
+/* #main h1:nth-child(8) { */
+
 hr {
   height: 2px;
   width: 100%;
